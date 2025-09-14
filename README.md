@@ -1,6 +1,6 @@
 # Data Engineering Project with Medallion Architecture on Azure
 
-## 📌 Project Overview
+##  Project Overview
 
 This project demonstrates a complete **Data Engineering pipeline** built on **Microsoft Azure** using the **Medallion Architecture (Bronze, Silver, Gold layers)**. The project covers data ingestion, transformation, and analytics using modern data engineering tools and practices.
 
@@ -8,7 +8,7 @@ The main goal of this project is to showcase how raw data can be ingested, clean
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 The project follows the **Medallion Architecture**:
 
@@ -20,7 +20,7 @@ The project follows the **Medallion Architecture**:
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 * **Microsoft Azure** (Storage, Databricks)
 * **Azure Data Lake Storage (ADLS)**
@@ -31,17 +31,17 @@ The project follows the **Medallion Architecture**:
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```
-├── notebooks/                # Databricks notebooks (ETL scripts)
-├── diagrams/                 # Architecture & pipeline diagrams
-└── README.md                 # Project documentation
+├── notebooks/                
+├── diagrams/                
+└── README.md                 
 ```
 
 ---
 
-## 🚀 Features
+##  Features
 
 * Implemented **Medallion Architecture** (Bronze → Silver → Gold)
 * Used **PySpark** for data cleaning, transformations, and aggregations
@@ -52,7 +52,7 @@ The project follows the **Medallion Architecture**:
 
 ---
 
-## 🖼️ Screenshots
+##  Screenshots
 
 Below are some screenshots and diagrams of the project:
 
@@ -67,7 +67,7 @@ Below are some screenshots and diagrams of the project:
 
 ---
 
-## 📊 Applications
+##  Applications
 
 * Can be extended for **real-time streaming data pipelines**
 * Suitable for **Data Warehousing & Analytics**
@@ -76,7 +76,7 @@ Below are some screenshots and diagrams of the project:
 
 ---
 
-## 🔑 How to Run
+##  How to Run
 
 1. Clone the repository:
 
@@ -93,7 +93,7 @@ Below are some screenshots and diagrams of the project:
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
 * Add **real-time streaming ingestion** using Event Hubs or Kafka
 * Automate pipelines with **Azure Data Factory (ADF)**
