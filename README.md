@@ -16,8 +16,6 @@ The project follows the **Medallion Architecture**:
 * **Silver Layer**: Cleansed and transformed data (removes duplicates, standardizes schema, applies business rules).
 * **Gold Layer**: Aggregated and analytics-ready data for reporting and dashboards.
 
-![Medallion Architecture](./images/medallion_architecture.png)
-
 ---
 
 ##  Tech Stack
@@ -101,13 +99,13 @@ Below are some screenshots and diagrams of the project:
 
 ---
 
-## 🤝 Contributing
+##  Contributing
 
 Contributions are welcome! Feel free to fork this repository and submit pull requests.
 
 ---
 
-## 📧 Contact
+##  Contact
 
 **Author:** Soban Munir
 For queries, reach out via GitHub or LinkedIn.
